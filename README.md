@@ -3,3 +3,6 @@
 
 ## Pre-requisite:
 #### Power Apps or Dynamics 365 CE must Logged in the browser.
+
+
+[Test My Fetch XML](https://tamilarasu-arunachalam.github.io/test-my-fetchXml/)
